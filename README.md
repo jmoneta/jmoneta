@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Welcome to my GitHub profile
 
 - 🔭 I’m currently working on PeerCash
 - 🌱 I’m currently learning Rust and quantum-resistant cryptography
